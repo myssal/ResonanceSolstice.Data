@@ -1,0 +1,30 @@
+local View = require("UIOutsideStore/UIOutsideStoreView")
+local DataModel = require("UIOutsideStore/UIOutsideStoreDataModel")
+local Controller = require("UIOutsideStore/UIOutsideStoreController")
+local ViewFunction = require("UIOutsideStore/UIOutsideStoreViewFunction")
+local Luabehaviour = {
+  serialize = function()
+  end,
+  deserialize = function(initParams)
+    Controller:Init(initParams)
+  end,
+  awake = function()
+  end,
+  start = function()
+  end,
+  perupdate = function()
+  end,
+  update = function()
+  end,
+  ondestroy = function()
+  end,
+  enable = function()
+  end,
+  disenable = function()
+  end
+}
+return {
+  Luabehaviour,
+  View,
+  ViewFunction
+}

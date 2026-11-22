@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "hash": "A096E7FD20FBD6E3265B0B04A83A36BBBB836AFC74F2AAC3C20ED945C915E3D8",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396447837197793,
+    "etc": "factory=SnapshotFactory"
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": 12500001,
+      "idCN": "初始产品",
+      "mod": "Snapshot",
+      "isInformalData": false
+    }
+  ]
+}

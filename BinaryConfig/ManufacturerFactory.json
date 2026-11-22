@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "hash": "EF56B6545ABECA29E94FC5E713E58C50FC63C5A04841A566BE541995DC5F8A3C",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396447880618125,
+    "etc": "factory=ManufacturerFactory"
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": 13300001,
+      "idCN": "初始产品",
+      "mod": "基础制造商",
+      "isInformalData": false,
+      "name": "",
+      "icon": ""
+    }
+  ]
+}

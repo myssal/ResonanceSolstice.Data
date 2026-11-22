@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "hash": "540ECBAB7B84240D04C46EF0B9FEE8ACB5E3276DDD84D61F2A7BF26500FAF193",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396447998167166,
+    "etc": "factory=PictureFactory"
+  },
+  "count": 14,
+  "records": [
+    {
+      "id": 82200002,
+      "idCN": "图鉴/序章",
+      "mod": "基础插图",
+      "name": "Accident",
+      "iconPath": "UI/Dialog/CG/CG00-1",
+      "picturePath": "UI/Dialog/CG/CG00-1",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200003,
+      "idCN": "默认产品1",
+      "mod": "基础插图",
+      "name": "",
+      "picturePath": ""
+    },
+    {
+      "id": 82200001,
+      "idCN": "图鉴/1-02战前",
+      "mod": "基础插图",
+      "name": "Reality Stabilizer",
+      "iconPath": "UI/Dialog/CG/CG01-1",
+      "picturePath": "UI/Dialog/CG/CG01-1",
+      "width": 2665,
+      "height": 1080
+    },
+    {
+      "id": 82200004,
+      "idCN": "图鉴/1-04战后",
+      "mod": "基础插图",
+      "name": "The Eternal's Return",
+      "iconPath": "UI/Dialog/CG/CG01-2",
+      "picturePath": "UI/Dialog/CG/CG01-2",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200005,
+      "idCN": "图鉴/未定",
+      "mod": "基础插图",
+      "name": "Onslaught of Darkness",
+      "iconPath": "UI/Dialog/CG/CG01-3",
+      "picturePath": "UI/Dialog/CG/CG01-3",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200006,
+      "idCN": "图鉴/1-04战前",
+      "mod": "基础插图",
+      "name": "Nostalgia",
+      "iconPath": "UI/Dialog/CG/CG01-4",
+      "picturePath": "UI/Dialog/CG/CG01-4",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200007,
+      "idCN": "图鉴/2-07战前",
+      "mod": "基础插图",
+      "name": "Sisters",
+      "iconPath": "UI/Dialog/CG/CG01-5",
+      "picturePath": "UI/Dialog/CG/CG01-5",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200008,
+      "idCN": "图鉴/3-08战前",
+      "mod": "基础插图",
+      "name": "Reunion with Friends",
+      "iconPath": "UI/Dialog/CG/CG03-1",
+      "picturePath": "UI/Dialog/CG/CG03-1",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200009,
+      "idCN": "图鉴/3-尾声·二",
+      "mod": "基础插图",
+      "name": "Little Miracle",
+      "iconPath": "UI/Dialog/CG/CG03-2",
+      "picturePath": "UI/Dialog/CG/CG03-2",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200010,
+      "idCN": "照片/2-10",
+      "mod": "基础插图",
+      "name": "2-10: Underwater Bridge",
+      "iconPath": "UI/Dialog/Reward/2-10",
+      "picturePath": "UI/Dialog/Reward/2-10",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200011,
+      "idCN": "照片/1-10",
+      "mod": "基础插图",
+      "name": "2-10: Underwater Bridge",
+      "iconPath": "UI/Dialog/Reward/2-10",
+      "picturePath": "UI/Dialog/Reward/2-10",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200012,
+      "idCN": "照片/2-5",
+      "mod": "基础插图",
+      "name": "2-10: Underwater Bridge",
+      "iconPath": "UI/Dialog/Reward/2-10",
+      "picturePath": "UI/Dialog/Reward/2-10",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200013,
+      "idCN": "照片/3-10",
+      "mod": "基础插图",
+      "name": "2-10: Underwater Bridge",
+      "iconPath": "UI/Dialog/Reward/2-10",
+      "picturePath": "UI/Dialog/Reward/2-10",
+      "width": 2336,
+      "height": 1080
+    },
+    {
+      "id": 82200014,
+      "idCN": "照片/3-10-2",
+      "mod": "基础插图",
+      "name": "2-10: Underwater Bridge",
+      "iconPath": "UI/Dialog/Reward/2-10",
+      "picturePath": "UI/Dialog/Reward/2-10",
+      "width": 2336,
+      "height": 1080
+    }
+  ]
+}

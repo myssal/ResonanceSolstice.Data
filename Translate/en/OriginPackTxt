@@ -1,0 +1,32 @@
+﻿0#Additional resources will be downloaded. Download Size (%d)
+1#You're on a mobile network. Downloading will consume data (%d). Continue?
+2#Download Canceled, The game will now exit.
+3#Additional resources needs to be downloaded. Download Size (%d)
+4#Download failed, Retry? (If it fails repeatedly, check your device storage.)
+5#Failed to connect to the server. Retry?
+6#OK
+7#Cancel
+8#Downloading Resources
+9#Installing Resources
+10#Installation Failed
+11#Loading Configurations
+12#Initializing
+13#Verifying File Integrity
+14#Verification failed. Please redownload.
+15#Your client version is outdated. Please update to the latest version.
+16#Attempting to reconnect... (%d)
+17#Checking Version Info
+18#Preparing to Download Updates
+19#Delete current download progress?
+20#Data received. The system will exit shortly. Please restart manually.
+21#Server Request Failed
+22#Download complete. Tap anywhere to start the game.
+23#Network unavailable. Please check your connection.
+13#Verifying File Integrity
+14#Verification failed. Please redownload.
+26#Checking for Updates
+27# New players are recommended to tap [Start Now] to quickly begin the game. Download the [Full Resource Version] for the complete experience.
+28# Start Now (about %d)
+29# Full Resource Version (about %d)
+30# Download full content during play? [Size: %d]
+31# You're on mobile data. Download may use data.

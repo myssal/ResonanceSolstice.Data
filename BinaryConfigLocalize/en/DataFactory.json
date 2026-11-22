@@ -1,0 +1,920 @@
+{
+  "version": 1,
+  "hash": "83115584B83E0BC07625FC4C674D0152BBAB5AE2EA7900D5B8DBD2FFFFC65255",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396448025960139,
+    "etc": "factory=DataFactory"
+  },
+  "count": 75,
+  "records": [
+    {
+      "id": 84500001,
+      "idCN": "基本概念/生物/深眠者",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Deep Sleeper",
+      "from": 80300041,
+      "tipsDesc": "Individuals who have lost their sanity after being affected by morphic field pollution.",
+      "desc": "Humans form perception and self-awareness through their species' unique morphic resonance — the collective unconsciousness, often referred to as the Jungian consciousness. After the arrival of Morphic Moon, some individuals have been contaminated by its foreign morphic field to such an extent that the self-defense mechanism of the Jungian consciousness excludes their morphic field, resulting in these individuals losing their human form and cognition. It has been observed that some humans, after becoming Deep Sleepers, exhibit behavior similar to Chaos Remains. Some scientists speculate that Chaos Remains may also possess a collective unconsciousness similar to the Jungian consciousness, which accepts Deep Sleepers. However, this theory lacks evidence."
+    },
+    {
+      "id": 84500002,
+      "idCN": "基本概念/共振相关/共振",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Resonance",
+      "from": 80300041,
+      "tipsDesc": "Resonance, short for morphic resonance, is the primary form of interaction between morphic fields.",
+      "desc": "Morphic resonance is the primary form of interaction between morphic fields. It's worth mentioning that throughout the long evolutionary process of Earth's organisms, some species have evolved strong, collective morphic resonance, which influences the environment to become more habitable. Humans are particularly unique in this aspect. Through morphic resonance, humans form the foundation of perception and self-awareness, known as the collective unconsciousness."
+    },
+    {
+      "id": 84500003,
+      "idCN": "基本概念/共振相关/形态污染",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Morphic Field Pollution",
+      "from": 80300041,
+      "tipsDesc": "The disruption of originally balanced morphic resonance between objects by foreign morphic fields is termed \"morphic field pollution.\"",
+      "desc": "Also known as \"resonance pollution\" or simply \"pollution.\" The current Earth's environment is the stable form shaped over billions of years by the morphic fields of Earth and its organisms. Therefore, with the arrival of Morphic Moon and its foreign morphic fields, this stable form has been disrupted. This phenomenon, where the originally balanced morphic resonance between objects is disrupted by foreign morphic fields, is called \"morphic field pollution.\" Morphic field pollution has become the most serious environmental crisis facing humanity, surpassing global warming and ozone layer depletion."
+    },
+    {
+      "id": 84500004,
+      "idCN": "基本概念/荣格意识体",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Jungian Consciousness",
+      "from": 80300041,
+      "tipsDesc": "The collective unconsciousness of humanity, the main source of human morphic resonance, was only confirmed to exist after Morphic Moon incident. It contains all the information of every entity conceptually considered human, with its specific nature and principles still poorly understood.",
+      "desc": "The collective unconsciousness of humanity, the main source of human morphic resonance, was only confirmed to exist after Morphic Moon incident. It contains all the information of every entity conceptually considered human, with its specific nature and principles still poorly understood. There is evidence that indicates that the Citadel has learned methods to enter and acquire knowledge from it."
+    },
+    {
+      "id": 84500005,
+      "idCN": "基本概念/生物/升构者",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Ascender",
+      "from": 80300041,
+      "tipsDesc": "Individuals who retain their sanity and awaken special abilities after being affected by morphic field pollution.",
+      "desc": "<size=19>Although there are various reasons for the formation of Ascenders, they all share a common essence: Humans contaminated by foreign morphic fields, whose resonance is powerful enough to reshape reality in a short time. The most common cause for ordinary people to become Ascenders is severe morphic field pollution, without being rejected by the Jungian consciousness and turning into Deep Sleepers. However, the reasons for this are currently unknown. There is also a mystery surrounding Ascenders: Why do the abilities evolved by the vast majority of Ascenders have practical utility? One hypothesis suggests that Ascenders are not excluded from the Jungian consciousness because the Jungian consciousness deems their abilities useful, allowing them to become immune bodies against pollution, which is a form of self-evolution of the Jungian consciousness. Those Ascenders without value are abandoned by the Jungian consciousness and become Deep Sleepers. However, this hypothesis also has many inconsistencies, such as some Deep Sleepers having practical ascension abilities. Therefore, there is a niche theory that suggests Ascender's abilities actually originate from the guidance of Morphic Moon.</size>"
+    },
+    {
+      "id": 84500006,
+      "idCN": "基本概念/混响者",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Reverberator",
+      "from": 80300041,
+      "tipsDesc": "Special Ascenders existing only within the Empire. They exhibit characteristics such as spontaneous transformation resembling mythical creatures or the emergence of related Ascension Abilities.",
+      "desc": "Special Ascenders existing only within the Empire. They exhibit characteristics such as spontaneous transformation resembling mythical creatures or the emergence of related Ascension Abilities. The causes are unknown."
+    },
+    {
+      "id": 84500007,
+      "idCN": "基本概念/天使",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Angel",
+      "from": 80300041,
+      "tipsDesc": "After infiltrating the collective unconsciousness of humanity — Unbewusstes — to acquire knowledge, the infiltrator's personality will be completely replaced based on the knowledge they seek. These newly transformed beings are referred to as \"Angels.\"",
+      "desc": "After infiltrating the collective unconsciousness of humanity — Unbewusstes — to acquire knowledge, the infiltrator's personality will be completely replaced based on the knowledge they seek. These newly transformed beings are referred to as \"Angels,\" and the curse of knowledge manifests as a halo that constantly accompanies them."
+    },
+    {
+      "id": 84500008,
+      "idCN": "基本概念/共振相关/负能",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Reverengy",
+      "from": 80300041,
+      "tipsDesc": "The energy carried by negative neutrinos that invade from the chaos space, generally used to judge the intensity of ascension abilities based on the amount of Reverengy they generate.",
+      "desc": "The energy carried by negative neutrinos that invade from the chaos space when Ascenders use their abilities. It can be used as a quantitative standard for the strength of reality-shaping abilities by determining the amount of Reverengy generated, or as a means of attack."
+    },
+    {
+      "id": 84500009,
+      "idCN": "基本概念/临界",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Reverengy",
+      "from": 80300041,
+      "tipsDesc": "Morphic Moon appeared in Earth's synchronous orbit, and its foreign morphic resonance carried an influence that disrupted Earth's own reality stability, causing an enduring catastrophe. This event is referred to as the \"Solstice.\"",
+      "desc": "Morphic Moon appeared in Earth's synchronous orbit, and its foreign morphic resonance carried an influence that disrupted Earth's own reality stability, causing an enduring catastrophe. This event is referred to as the \"Solstice.\""
+    },
+    {
+      "id": 84500010,
+      "idCN": "组织势力/科伦巴商会/科伦巴商会",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "COLUMBA",
+      "from": 80300125,
+      "tipsDesc": "A large chamber of commerce affiliated with B.C.R.L., operates numerous trains and plays a significant role in freight and passenger transport.",
+      "desc": "A large chamber of commerce affiliated with B.C.R.L., operates numerous trains and plays a significant role in freight and passenger transport."
+    },
+    {
+      "id": 84500011,
+      "idCN": "组织势力/环大陆铁道同盟/TMT培训学校",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Training School",
+      "from": 80300125,
+      "tipsDesc": "TMT Training School. It was established to train and select crews, with a one-year vocational training program and strict graduation requirements.",
+      "desc": "The full name is the Transport Member Test Certification Training School, authorized by B.C.R.L. and managed by various CoCs. Its branches are distributed in training schools across major Bonfire Cities. It offers training courses tailored to different professions within crews. Candidates are selected by various CoC or railway universities, with relatively low entry requirements but stringent graduation criteria. Despite the challenging prospects for employment within Bonfire Cities, many young people still participate in training and examinations year after year due to the difficulty of obtaining the TMT certification."
+    },
+    {
+      "id": 84500012,
+      "idCN": "城市与路线调查/七号自由港/七号自由港",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Freeport Ⅶ",
+      "from": 80300124,
+      "tipsDesc": "One of the primary ports along the Western Continent Railway Loop. Due to Chaos Remains and morphic field pollution, the maritime and fishing industries have seen better days. Nevertheless, Freeport Ⅶ remains a coastal gem.",
+      "desc": "One of the primary ports along the Western Continent Railway Loop. Due to Chaos Remains and morphic field pollution, the maritime and fishing industries have seen better days. Nevertheless, Freeport Ⅶ remains a coastal gem."
+    },
+    {
+      "id": 84500013,
+      "idCN": "组织势力/环大陆铁道同盟/简介",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "B.C.R.L.",
+      "from": 80300125,
+      "tipsDesc": "The abbreviation for Bonfire City Railways League, which holds authority over all railway routes, managing tasks such as railway laying and security.",
+      "desc": "The abbreviation for Bonfire City Railways League, which holds authority over all railway routes, managing tasks such as railway laying and security."
+    },
+    {
+      "id": 84500014,
+      "idCN": "组织势力/环大陆铁道同盟/铁安局",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "BCRL Agency",
+      "from": 80300125,
+      "tipsDesc": "An armed administrative body established by BCRL to ensure safety and orderliness along the line leading to Bonfire City.",
+      "desc": "An armed administrative body established by BCRL to ensure safety and orderliness along the line leading to Bonfire City."
+    },
+    {
+      "id": 84500015,
+      "idCN": "重大发明/篝火城/篝火城",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Bonfire City",
+      "from": 80300126,
+      "tipsDesc": "Fortress-like cities established based on the coverage of the Reality Stabilizer and the requirements of railway transportation. After the arrival of Morphic Moon, residing in Bonfire City means safety and stability.",
+      "desc": "Fortress-like cities established based on the coverage of the Reality Stabilizer and the requirements of railway transportation. After the arrival of Morphic Moon, residing in Bonfire City means safety and stability."
+    },
+    {
+      "id": 84500016,
+      "idCN": "组织势力/科伦巴商会/护卫乘员",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Guard Crew",
+      "from": 80300125,
+      "tipsDesc": "Armed crew responsible for safeguarding the security of the train, also known as the Train Escort. They fend off attacks from bandits and Chaos Remains during train operations.",
+      "desc": "Armed crew responsible for safeguarding the security of the train, also known as the Train Escort. They fend off attacks from bandits and Chaos Remains during train operations."
+    },
+    {
+      "id": 84500017,
+      "idCN": "基本概念/共振相关/“地卫二”",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "\"Morphic Moon\"",
+      "from": 80300041,
+      "tipsDesc": "An extraterrestrial celestial body observed 72 years ago and reaching Earth's synchronous orbit 30 years ago. The primary cause of the morphic field pollution disaster.",
+      "desc": "Previously known as the \"Unknown Negative Neutrino Source\" when observed 72 years ago, it was later termed \"Morphic Moon\" upon its arrival in Earth's synchronous orbit. The foreign morphic field it carries has disrupted the stability of Earth's intrinsic morphic field resonance, leading to severe environmental damage."
+    },
+    {
+      "id": 84500018,
+      "idCN": "组织势力/阿妮塔科技/阿妮塔科技",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Anita Tech",
+      "from": 80300125,
+      "tipsDesc": "The global leader in technology, holding patents for both train engines and morphic field stabilizers.",
+      "desc": "Formerly known as the \"Anita Laboratory\" of the Earth Union Space Administration located in Antarctica, they were the discoverers and pioneers of Negative Neutrinos and the chaos world, thriving on the unique resource known as \"Chaos Stone.\" As the provider and maintainer of train engines and morphic field stabilizers, Anita Global Energy Corp has powered countless trains with robust engines."
+    },
+    {
+      "id": 84500019,
+      "idCN": "重大发明/建筑/现实稳定装置",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Reality Stabilizer",
+      "from": 80300126,
+      "tipsDesc": "A contemporary engineering marvel of humankind, capable of emitting reinforced human morphic fields to repel Chaos Remains and eliminate the effects of morphic field pollution.",
+      "desc": "Capable of emitting a reinforced human morphic field to suppress the pollution brought by Morphic Moon. Bonfire City utilizes colossal towers as reality stabilizers, generally requiring groups of eight to function. These devices, while vital for ensuring the safety and stability of large urban populations, are immensely large and complex, prone to accidents. However, they play an indispensable role in humanity's redevelopment. Reality stabilizers use Chaos Stone or Chaos Residue as fuel. When these high-power devices are activated, their morphic fields collide with those of Chaos Remain, resulting in aurora-like phenomena. Hence, in the current world, \"auroras\" are no longer rare sights. The Citadel provided significant technological support during the design process of reality stabilizers."
+    },
+    {
+      "id": 84500020,
+      "idCN": "基本概念/生物/桦树生物",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Chaos Remains",
+      "from": 80300041,
+      "tipsDesc": "Morphic Moon's appearance in Earth's synchronous orbit brought about a multitude of peculiar creatures on the planet's surface, most of which harbor hostility toward humans.",
+      "desc": "Officially known as Negative Neutrino Organisms, they were confirmed to originate from the chaos space. Due to the overlap between the chaos space and the real world, they are widespread in the latter. Research on the ecology of Chaos Remains is still an emerging field, and our understanding is limited. However, it is established that while they vary in species, most are unable to communicate and hold hostility toward humans."
+    },
+    {
+      "id": 84500021,
+      "idCN": "组织势力/科伦巴商会/梅迪奇女士",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Signora Medici",
+      "from": 80300125,
+      "tipsDesc": "The founder and current president of COLUMBA, despite being highly regarded in the industry, maintains a low profile and seldom appears in public.",
+      "desc": "The founder and current president of COLUMBA, despite being highly regarded in the industry, maintains a low profile and seldom appears in public."
+    },
+    {
+      "id": 84500022,
+      "idCN": "城市与路线调查/修格里城/修格里城",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Shoggolith City",
+      "from": 80300124,
+      "tipsDesc": "As a burgeoning commercial hub along the Western Continent Railway Loop, Shoggolith City has experienced rapid industrialization and urbanization. In recent years, iconic skyscrapers have sprung up, showcasing the city's rapid development.",
+      "desc": "As a burgeoning commercial hub along the Western Continent Railway Loop, Shoggolith City has experienced rapid industrialization and urbanization. In recent years, iconic skyscrapers have sprung up, showcasing the city's rapid development."
+    },
+    {
+      "id": 84500023,
+      "idCN": "组织势力/索思学会/索思学会",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Source Citadel",
+      "from": 80300125,
+      "tipsDesc": "Since ancient times, they have been explorers, masters, and overseers of knowledge and technology, possessing advanced techniques beyond the comprehension or imagination of ordinary individuals.",
+      "desc": "A mysterious organization based on an airship, they possess knowledge and technology beyond ordinary comprehension, styling themselves as defenders of human civilization. The birth of [Reality Stabilizer] is closely linked to this organization."
+    },
+    {
+      "id": 84500024,
+      "idCN": "重大发明/科技产物/形态共振污染指数计数器",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "<size=22>Morphic Resonance Pollution Index Counter</size>",
+      "from": 80300126,
+      "tipsDesc": "Commonly known as \"Flee Alarm,\" it's a small device used to test the extent of environmental and object morphic field pollution. It is said that its true form is a gaming console.",
+      "desc": "<size=20>Polarization detectors, also known as \"Flee Alarms,\" are the most common equipment for monitoring morphic field pollution. Early on, the general public lacked professional means of morphic field pollution detection, so they came up with the method of carrying a portable gaming console for judgment. When stable games display abnormal issues, it indicates that the morphic field pollution level nearby has exceeded a certain standard. Currently, professional organizations use detectors that rely on measuring the energy carried by Negative Neutrinos brought about by resonance pollution to determine the current pollution level. However, these detectors also need to analyze the bugs in the background running game program to determine the current reality shift situation.\\nIn conclusion, these detectors are essentially gaming consoles. Some members of the Citadel believe this method is very childish, but whenever asked how they measure morphic field pollution, they remain silent.</size>"
+    },
+    {
+      "id": 84500025,
+      "idCN": "组织势力/暴力团伙/鼹鼠帮",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "MoleGang",
+      "from": 80300125,
+      "tipsDesc": "Operating in Shoggolith City, this underground faction utilizes the old underground railways as their base.",
+      "desc": "Operating in Shoggolith City, this underground faction utilizes the old underground railways as their base."
+    },
+    {
+      "id": 84500026,
+      "idCN": "组织势力/仙女木公司/仙女木公司",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "DRYAS CORPORATION",
+      "from": 80300125,
+      "tipsDesc": "The renowned veteran weapon manufacturer, with a rich and illustrious history, is considered a trusted name in the industry.",
+      "desc": "The renowned veteran weapon manufacturer, with a rich and illustrious history, is considered a trusted name in the industry."
+    },
+    {
+      "id": 84500027,
+      "idCN": "组织势力/黑月/黑月大酒店",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Night Chains Hotel",
+      "from": 80300125,
+      "tipsDesc": "A high-end hotel under the umbrella of Night Chains.",
+      "desc": "A high-end hotel under the umbrella of Night Chains."
+    },
+    {
+      "id": 84500028,
+      "idCN": "组织势力/黑月/黑月",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Night Chains",
+      "from": 80300125,
+      "tipsDesc": "A business conglomerate with its fingers in various entertainment pies, rumored to have a shadowy side, dabbling in activities such as assassination, espionage, and arms dealing.",
+      "desc": "A business conglomerate with its fingers in various entertainment pies, rumored to have a shadowy side, dabbling in activities such as assassination, espionage, and arms dealing."
+    },
+    {
+      "id": 84500029,
+      "idCN": "重大发明/科技产物/波克士",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "BOX",
+      "from": 80300126,
+      "tipsDesc": "A multi-functional bionic robot jointly developed by the former Earth Union and Anita Tech to assist humans in various technical tasks.",
+      "desc": "A multi-functional bionic robot jointly developed by the former Earth Union and Anita Tech to assist humans in various technical tasks."
+    },
+    {
+      "id": 84500030,
+      "idCN": "基本概念/生物/烈日级",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Blazesun Class",
+      "from": 80300041,
+      "tipsDesc": "One of the resonance form levels, corresponding to Chaos Remains with morphic deviation levels 8-10, poses a threat to some of the less fortified areas of Bonfire City.",
+      "desc": "One of the resonance form levels, corresponding to Chaos Remains with morphic deviation levels 8-10, poses a threat to some of the less fortified areas of Bonfire City."
+    },
+    {
+      "id": 84500031,
+      "idCN": "城市与路线调查/曼德矿场/曼德矿场",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Mander Mine",
+      "from": 80300124,
+      "tipsDesc": "Affiliated with Shoggolith City, the mining base stands as the largest industrial raw material production site in the region.",
+      "desc": "Affiliated with Shoggolith City, the mining base stands as the largest industrial raw material production site in the region."
+    },
+    {
+      "id": 84500032,
+      "idCN": "组织势力/环大陆铁道同盟/蜜獾小队",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Team Ratel",
+      "from": 80300125,
+      "tipsDesc": "One of the mobile squads under the jurisdiction of BCRL Agency.",
+      "desc": "One of the mobile squads under the jurisdiction of BCRL Agency."
+    },
+    {
+      "id": 84500033,
+      "idCN": "城市与路线调查/曼德矿场/彼得·黄",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Peter Hwang",
+      "from": 80300124,
+      "tipsDesc": "The head of Mander Mine, also serving as an aide to Mayor Jose.",
+      "desc": "The head of Mander Mine, also serving as an aide to Mayor Jose."
+    },
+    {
+      "id": 84500034,
+      "idCN": "组织势力/环大陆铁道同盟/海因里希",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Heinrich",
+      "from": 80300125,
+      "tipsDesc": "The acting director of the BCRL Agency's Shoggolith branch, and Dorothy's father.",
+      "desc": "The acting director of the BCRL Agency's Shoggolith branch, and Dorothy's father."
+    },
+    {
+      "id": 84500035,
+      "idCN": "城市与路线调查/费尔德里奇号/费尔德里奇号",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Phildridge",
+      "from": 80300124,
+      "tipsDesc": "A research vessel belonging to Anita, \"stranded\" in the Wilderness far from the coastline for unknown reasons.",
+      "desc": "A research vessel belonging to Anita, \"stranded\" in the Wilderness far from the coastline for unknown reasons.",
+      "unlock": -1
+    },
+    {
+      "id": 84500036,
+      "idCN": "组织势力/地联/地联",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Earth Union",
+      "from": 80300125,
+      "tipsDesc": "The former global united government, with Bonfire City Railways League and Anita once serving as subordinate departments, now exists only in memory.",
+      "desc": "The former global united government, with Bonfire City Railways League and Anita once serving as subordinate departments, now exists only in memory."
+    },
+    {
+      "id": 84500037,
+      "idCN": "重大发明/科技产物/全功能移动工程平台",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Mobile Engineering Platform",
+      "from": 80300126,
+      "tipsDesc": "Technological relics from the Earth Union era, featuring a blend of engineering and architectural functionalities, played a crucial role in the construction of Bonfire City but now lie mostly abandoned.",
+      "desc": "Technological relics from the Earth Union era, featuring a blend of engineering and architectural functionalities, played a crucial role in the construction of Bonfire City but now lie mostly abandoned."
+    },
+    {
+      "id": 84500038,
+      "idCN": "组织势力/暴力团伙/拾荒者",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Marauder",
+      "from": 80300125,
+      "tipsDesc": "Roaming the wilderness, surviving primarily by scavenging, this group unexpectedly operates as a formidable group.",
+      "desc": "Roaming the wilderness, surviving primarily by scavenging, this group unexpectedly operates as a formidable group."
+    },
+    {
+      "id": 84500039,
+      "idCN": "组织势力/环大陆铁道同盟/铁路法庭",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Railway Court",
+      "from": 80300125,
+      "tipsDesc": "The judicial arm of Bonfire City Railways League, responsible for adjudicating cases related to railway matters.",
+      "desc": "The judicial arm of Bonfire City Railways League, responsible for adjudicating cases related to railway matters."
+    },
+    {
+      "id": 84500040,
+      "idCN": "重大发明/科技产物/摆渡船",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Ferryboat",
+      "from": 80300126,
+      "tipsDesc": "One of Anita's inventions, rumored to facilitate travel between the present world and the chaos space.",
+      "desc": "One of Anita's inventions, rumored to facilitate travel between the present world and the chaos space."
+    },
+    {
+      "id": 84500041,
+      "idCN": "基本概念/生物/皎月级",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Palemoon Class",
+      "from": 80300041,
+      "tipsDesc": "One of the resonance form levels, corresponding to Chaos Remain with morphic deviation levels 6-8, constitutes the majority of threatening Chaos Remains to humans.",
+      "desc": "One of the resonance form levels, corresponding to Chaos Remain with morphic deviation levels 6-8, constitutes the majority of threatening Chaos Remains to humans."
+    },
+    {
+      "id": 84500042,
+      "idCN": "基本概念/生物/“门徒”",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "\"Disciple\"",
+      "from": 80300041,
+      "tipsDesc": "A special type of colossal Chaos Remain, exhibiting different behavioral patterns from other Chaos Remains, often causing significant disasters.",
+      "desc": "A special type of colossal Chaos Remain, exhibiting different behavioral patterns from other Chaos Remains, often causing significant disasters."
+    },
+    {
+      "id": 84500043,
+      "idCN": "城市与路线调查/海角城/海角城",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Cape City",
+      "from": 80300124,
+      "tipsDesc": "The largest seaport city in the Western Continent. This city continues to experience high demand for seafood despite a decline in the sea transportation business.",
+      "desc": "The largest seaport city in the Western Continent. This city continues to experience high demand for seafood despite a decline in the sea transportation business."
+    },
+    {
+      "id": 84500044,
+      "idCN": "城市与路线调查/海角城/汇流塔",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Confluence Tower",
+      "from": 80300124,
+      "tipsDesc": "The \"Climber\" established by the Citadel in Cape City as a Citadel branch.",
+      "desc": "The \"Climber\" established by the Citadel in Cape City as a Citadel branch."
+    },
+    {
+      "id": 84500045,
+      "idCN": "城市与路线调查/淘金乐园/淘金乐园",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "ONEderland",
+      "from": 80300124,
+      "tipsDesc": "A town established over 20 years ago to serve gold diggers.",
+      "desc": "A town established over 20 years ago to serve gold diggers."
+    },
+    {
+      "id": 84500047,
+      "idCN": "基本概念/素材/劣桦石",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Chaos Residue",
+      "from": 80300041,
+      "tipsDesc": "A secondary morphic field product, easier to harvest than Chaos Stones, referred to as Chaos Residues, used as a source of energy.",
+      "desc": "A secondary morphic field product, easier to harvest than Chaos Stones, referred to as Chaos Residues, used as a source of energy."
+    },
+    {
+      "id": 84500048,
+      "idCN": "基本概念/共振相关/失稳区域",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Destablized Area",
+      "from": 80300041,
+      "tipsDesc": "Regions experiencing an overlay of the real world and the chaos space, typically characterized by severe morphic field pollution.",
+      "desc": "Regions experiencing an overlay of the real world and the chaos space, typically characterized by severe morphic field pollution."
+    },
+    {
+      "id": 84500049,
+      "idCN": "组织势力/暴力团伙/沙盗团",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "P.U.S.",
+      "from": 80300125,
+      "tipsDesc": "A group of bounty hunters active in desert regions.",
+      "desc": "A group of bounty hunters active in desert regions."
+    },
+    {
+      "id": 84500050,
+      "idCN": "重大发明/科技产物/捕梦网",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Dreamcatcher",
+      "from": 80300126,
+      "tipsDesc": "Weapon manufactured by Papaga specifically to neutralize the abilities of captured Chaos Remains for a limited time.",
+      "desc": "Weapon manufactured by Papaga specifically to neutralize the abilities of captured Chaos Remains for a limited time."
+    },
+    {
+      "id": 84500051,
+      "idCN": "基本概念/共振相关/朝圣（负潮）",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Pilgrimage (Ebb Tide)",
+      "from": 80300041,
+      "tipsDesc": "A general term used by Gardener to refer to powerful and widespread activities of Chaos Remains.",
+      "desc": "A general term used by Gardener to refer to powerful and widespread activities of Chaos Remains."
+    },
+    {
+      "id": 84500052,
+      "idCN": "基本概念/共振相关/负潮主",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Ebb Tide Master",
+      "from": 80300041,
+      "tipsDesc": "The phenomenon of ebb tides is inevitably triggered by a powerful living Chaos Remain, collectively referred to as the Ebb Tide Master.",
+      "desc": "The phenomenon of ebb tides is inevitably triggered by a powerful living Chaos Remain, collectively referred to as the Ebb Tide Master."
+    },
+    {
+      "id": 84500046,
+      "idCN": "基本概念/共振相关/形态场",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Morphic Field Pollution",
+      "from": 80300041,
+      "tipsDesc": "Under the influence of external or unique morphic field resonance, it has undergone anomalous transformations.",
+      "desc": "Based on the Sheldrake Hypothesis, which proposes a pervasive field substance capable of shaping all forms in the world. This theory was confirmed 72 years ago following observations of the effects of Negative Neutrino lifeforms."
+    },
+    {
+      "id": 84500053,
+      "idCN": "基本概念/共振相关/形态共振偏移等级",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Morphic Field Pollution",
+      "from": 80300041,
+      "tipsDesc": "The absolute value displayed on the polarization detector, representing the deviation of the current morphic field from a habitable one.",
+      "desc": "偏振探测仪所显示数值的绝对值，代表当前环境形态场与宜居形态场的偏差大小。\\n0~4\t基本安全，可能会出现流泪·眩晕·失去方向感及呼吸困难等症状，周围环境可能出现气温小幅变化，轻微重力异常等。篝火城及大部分人类能够正常生活的区域都属于这个级别。\\n\\n4~8\t存在中高风险，未经训练或未穿戴正确装备的正常人可能会出现幻觉·精神错乱·完全迷失方向感等症状，周围环境可能出现温度大范围变化，气压骤降，重力异常甚至时间异常等情况。目前地表大部分区域，以及可探索的桦树空间都属于这个范畴。\\n\\n8~12\t极度危险。未经训练或未穿戴正确装备的正常人可能会出现z转化成深眠者·肢体变异甚至瞬间爆炸等状况。周围环境可能出现空间时间异常，物理法则改变等情况。一些极度危险的桦树生物的活动区域或桦树世界的一些区域会处于这个范围。\\n\\n12~23\t仅理论存在，实际未被观测。但必然是十分危险，基本无存活可能\\n\\nβ     表示β形态场，仅理论存在的一类状况，表示本宇宙形态共振完全被覆盖或抵消，一切时间空间和物理法则都将改变或彻底消失。一般认为这种情况不可能有已知物质能继续保持物质形态，但也有人说β形态场也有可能指一个没有形态共振的宇宙，在那里如果有形态共振假说，想必会被认为是伪科学。"
+    },
+    {
+      "id": 84500054,
+      "idCN": "组织势力/环大陆铁道同盟/环大陆铁道同盟",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Railway Court",
+      "from": 80300125,
+      "tipsDesc": "Autonomous organizations composed of cities and CoCs along railway lines.",
+      "desc": "After the arrival of Morphic Moon, the once-unified government under the \"Earth Union Charter\" lost its administrative capacity, becoming virtually defunct. In its place, the City Alliance formed by cities along the railway lines began to govern autonomously. Over the years, the Bonfire City Railways League, in addition to major cities, has incorporated various CoCs. Together with these CoCs, B.C.R.L. undertakes the responsibilities of railway transportation and railway facility maintenance."
+    },
+    {
+      "id": 84500055,
+      "idCN": "手账/2乘客手账/2乘客收益",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Passenger",
+      "noteList": [
+        {
+          "level": 0,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note3"
+        }
+      ]
+    },
+    {
+      "id": 84500056,
+      "idCN": "手账/2乘客手账/1招揽设置",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Promotion",
+      "noteList": [
+        {
+          "level": 0,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note3"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note4"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note5"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note6"
+        }
+      ]
+    },
+    {
+      "id": 84500057,
+      "idCN": "手账/1交易所手账/2交易所",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Bargain",
+      "noteList": [
+        {
+          "level": 1,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note3"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note4"
+        },
+        {
+          "level": 6,
+          "path": "Img_Note5"
+        },
+        {
+          "level": 7,
+          "path": "Img_Note6"
+        },
+        {
+          "level": 8,
+          "path": "Img_Note7"
+        },
+        {
+          "level": 9,
+          "path": "Img_Note8"
+        }
+      ]
+    },
+    {
+      "id": 84500058,
+      "idCN": "手账/1交易所手账/1交易所",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Trading",
+      "noteList": [
+        {
+          "level": 1,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note3"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note4"
+        },
+        {
+          "level": 2,
+          "path": "Img_Note5"
+        },
+        {
+          "level": 3,
+          "path": "Img_Note6"
+        },
+        {
+          "level": 4,
+          "path": "Img_Note7"
+        },
+        {
+          "level": 5,
+          "path": "Img_Note8"
+        }
+      ]
+    },
+    {
+      "id": 84500059,
+      "idCN": "手账/1交易所手账/3交易所",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Trends",
+      "noteList": [
+        {
+          "level": 1,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 1,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 10,
+          "path": "Img_Note3"
+        },
+        {
+          "level": 11,
+          "path": "Img_Note4"
+        }
+      ]
+    },
+    {
+      "id": 84500060,
+      "idCN": "手账/1交易所手账/4交易所",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Handy Tips",
+      "noteList": [
+        {
+          "level": 12,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 13,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 14,
+          "path": "Img_Note3"
+        },
+        {
+          "level": 15,
+          "path": "Img_Note4"
+        },
+        {
+          "level": 16,
+          "path": "Img_Note5"
+        }
+      ]
+    },
+    {
+      "id": 84500061,
+      "idCN": "组织势力/曼杜斯帝国/曼杜斯",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Mundus",
+      "from": 80300125,
+      "tipsDesc": "In the distant past, Mundus' ancestors broke away from their kin for unknown reasons and were exiled. They established the first magic academy within a cave. Through their magical research, they eventually connected with an entity beyond the real world — the Wishing Tower. Using its power, Mundus' ancestors reached a place called Mundus Garden, where they founded a nation. For a significant period, they remained isolated from the surface world, having no interaction with it.",
+      "desc": "In the distant past, Mundus' ancestors broke away from their kin for unknown reasons and were exiled. They established the first magic academy within a cave. Through their magical research, they eventually connected with an entity beyond the real world — the Wishing Tower. Using its power, Mundus' ancestors reached a place called Mundus Garden, where they founded a nation. For a significant period, they remained isolated from the surface world, having no interaction with it."
+    },
+    {
+      "id": 84500062,
+      "idCN": "组织势力/曼杜斯帝国/神茗",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Divine Tea",
+      "from": 80300125,
+      "tipsDesc": "Although called \"Divine Tea,\" in Mundus' parlance, \"divine\" primarily refers to the Wishing Tower at the center of Mundus Garden. This tea is cultivated by the sage within the Wishing Tower, hence revered as Divine Tea by the people of Mundus.",
+      "desc": "Although called \"Divine Tea,\" in Mundus' parlance, \"divine\" primarily refers to the Wishing Tower at the center of Mundus Garden. This tea is cultivated by the sage within the Wishing Tower, hence revered as Divine Tea by the people of Mundus."
+    },
+    {
+      "id": 84500063,
+      "idCN": "组织势力/曼杜斯帝国/塔之贤者",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Tower Sage",
+      "from": 80300125,
+      "tipsDesc": "Legend has it that to prevent the misuse of the Wishing Tower's power, a sage selected by the Empire Magic Academy manages the tower. The current Tower Sage is the 73rd in line. In imperial culture, the Tower Sage is a household name, known for granting children's wishes during festivals. He is typically depicted as a grandfatherly figure with a large beard.",
+      "desc": "Legend has it that to prevent the misuse of the Wishing Tower's power, a sage selected by the Empire Magic Academy manages the tower. The current Tower Sage is the 73rd in line. In imperial culture, the Tower Sage is a household name, known for granting children's wishes during festivals. He is typically depicted as a grandfatherly figure with a large beard."
+    },
+    {
+      "id": 84500067,
+      "idCN": "重大发明/科技产物/通讯器",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Communicator",
+      "from": 80300126,
+      "tipsDesc": "Developed by Night Chains, this communicator has become widely utilized worldwide since the emergence of Morphic Moon. At present, long-distance communication heavily relies on the Negative Neutrino Communication Network constructed by Night Chains. The network employs numerous Night Chains members as base stations, ensuring high stability and minimal interference.",
+      "desc": "Developed by Night Chains, this communicator has become widely utilized worldwide since the emergence of Morphic Moon. At present, long-distance communication heavily relies on the Negative Neutrino Communication Network constructed by Night Chains. The network employs numerous Night Chains members as base stations, ensuring high stability and minimal interference."
+    },
+    {
+      "id": 84500069,
+      "idCN": "城市与路线调查/铁盟哨站/铁盟哨站",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "BCRL Outpost",
+      "from": 80300124,
+      "tipsDesc": "This location previously served as a transit hub for materials during the construction of Shoggolith City. Due to its strategic positioning and complete infrastructure, it was later repurposed by Bonfire City Railways League as an outpost.",
+      "desc": "This location previously served as a transit hub for materials during the construction of Shoggolith City. Due to its strategic positioning and complete infrastructure, it was later repurposed by Bonfire City Railways League as an outpost."
+    },
+    {
+      "id": 84500068,
+      "idCN": "组织势力/阿妮塔科技/形而上粒子研究所",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Metaphysical Particles Institute",
+      "from": 80300125,
+      "tipsDesc": "The significant hub for groundbreaking research in the field of metaphysical particles. The research conducted at this facility is highly classified, and no visits are allowed.",
+      "desc": "The significant hub for groundbreaking research in the field of metaphysical particles. The research conducted at this facility is highly classified, and no visits are allowed."
+    },
+    {
+      "id": 84500065,
+      "idCN": "组织势力/北方阵线/北方阵线",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Northern Alliance",
+      "from": 80300125,
+      "tipsDesc": "Also known as N.A. for short, Northern Alliance was once a dominant force that governed the northern continent. However, it was defeated by the United East-West Regime during the World War and gradually disintegrated after the establishment of the Earth Union.",
+      "desc": "Also known as N.A. for short, Northern Alliance was once a dominant force that governed the northern continent. However, it was defeated by the United East-West Regime during the World War and gradually disintegrated after the establishment of the Earth Union."
+    },
+    {
+      "id": 84500066,
+      "idCN": "组织势力/新北阵组织/新北阵组织",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "New Northern Alliance",
+      "from": 80300125,
+      "tipsDesc": "Following the autonomy of Bonfire City Railways League, some individuals from Northern Alliance attempted to break away from the Earth Union and establish an independent nation. However, this endeavor failed, resulting in only a few warlords from Northern Alliance forming a revival organization.",
+      "desc": "Following the autonomy of Bonfire City Railways League, some individuals from Northern Alliance attempted to break away from the Earth Union and establish an independent nation. However, this endeavor failed, resulting in only a few warlords from Northern Alliance forming a revival organization."
+    },
+    {
+      "id": 84500070,
+      "idCN": "基本概念/共振相关/形而上粒子",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Metaphysical Particles",
+      "from": 80300041,
+      "tipsDesc": "A general term referring to a series of recently discovered microscopic particles, notably negative neutrinos. These particles are not naturally occurring fundamental particles but are solely associated with anomalous morphic resonance. Consequently, their physical properties are highly correlated with the nature of morphic field.",
+      "desc": "A general term referring to a series of recently discovered microscopic particles, notably negative neutrinos. These particles are not naturally occurring fundamental particles but are solely associated with anomalous morphic resonance. Consequently, their physical properties are highly correlated with the nature of morphic field."
+    },
+    {
+      "id": 84500072,
+      "idCN": "城市与路线调查/澄明数据中心/澄明数据中心",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "CDCA Bureau",
+      "from": 80300124,
+      "tipsDesc": "An underground Bonfire City, also renowned for its resort and game studio, 10round Games. This site holds significance as it provides calibration data for the reality stabilizer in Bonfire City.",
+      "desc": "An underground Bonfire City, also renowned for its resort and game studio, 10rounds Games. This site holds significance as it provides calibration data for the reality stabilizer in Bonfire City."
+    },
+    {
+      "id": 84500073,
+      "idCN": "城市与路线调查/澄明数据中心/10Rounds",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "10rounds",
+      "from": 80300124,
+      "tipsDesc": "10rounds Games is a globally recognized game developer with its headquarters located in CDCA Bureau. However, only its operational and publishing departments are based there, while the R&D department operates from an undisclosed location.",
+      "desc": "10rounds Games is a globally recognized game developer with its headquarters located in CDCA Bureau. However, only its operational and publishing departments are based there, while the R&D department operates from an undisclosed location."
+    },
+    {
+      "id": 84500064,
+      "idCN": "城市与路线调查/荒原地区/荒原地区",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "The Wilderness",
+      "from": 80300124,
+      "tipsDesc": "Apart from the elusive drifters and marauders, there's nothing here. Fortunately, there are still train tracks not yet buried by the sandstorms; they are the only connection between this desolate land and Bonfire City. However, no train will stop here.",
+      "desc": "Apart from the elusive drifters and marauders, there's nothing here. Fortunately, there are still train tracks not yet buried by the sandstorms; they are the only connection between this desolate land and Bonfire City. However, no train will stop here.",
+      "unlock": 20700240
+    },
+    {
+      "id": 84500071,
+      "idCN": "城市与路线调查/荒原地区/费尔德里奇号",
+      "mod": "默认",
+      "isInformalData": false,
+      "name": "Phildridge",
+      "from": 80300124,
+      "tipsDesc": "A research vessel belonging to Anita, \"stranded\" in the Wilderness far from the coastline for unknown reasons.",
+      "desc": "A research vessel belonging to Anita, \"stranded\" in the Wilderness far from the coastline for unknown reasons."
+    },
+    {
+      "id": 84500074,
+      "idCN": "手账/3战斗手账/1战斗",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Basics",
+      "noteList": [
+        {
+          "level": 0,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note3"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note4"
+        }
+      ]
+    },
+    {
+      "id": 84500075,
+      "idCN": "手账/4制造手账/1制造",
+      "mod": "手账配置",
+      "isInformalData": false,
+      "name": "Crafting",
+      "noteList": [
+        {
+          "level": 0,
+          "path": "Img_Note1"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note2"
+        },
+        {
+          "level": 0,
+          "path": "Img_Note3"
+        }
+      ]
+    }
+  ]
+}

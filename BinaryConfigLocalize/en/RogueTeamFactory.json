@@ -1,0 +1,284 @@
+{
+  "version": 1,
+  "hash": "A5E8E509806A3A183C5A888D8691C3F39593B2B245A979267E0D10F3CAD5C5ED",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396448069699643,
+    "etc": "factory=RogueTeamFactory"
+  },
+  "count": 6,
+  "records": [
+    {
+      "id": 89700001,
+      "idCN": "盈缺之策",
+      "mod": "默认",
+      "isInformalData": false,
+      "startTime": "",
+      "name": "Lunation",
+      "des": "Summon 1 [Eclipse Moon] on the field. When using a [Leader Skill], release 1 [Astralite].\\n[Astralite] deals Reverengy DMG once to the enemy with the highest HP, and all allies lose 1000 HP.",
+      "iconPath": "UI/CubeRogue/TacticsIcon/Big/YingQue",
+      "tabIconPath": "UI/CubeRogue/TacticsIcon/Red/YingQue_1",
+      "cardIconPath": "UI/CubeRogue/TacticsSelection/Assets_New/yingque",
+      "cardBigIcon": "UI/CubeRogue/TacticsIcon/CardBig/YingQue",
+      "shadePath": "UI/CubeRogue/QualityBG/Buff/TypeIcon/YingQue",
+      "initialEffectList": [
+        {
+          "id": 12303371
+        }
+      ],
+      "extraBuffList": [
+        {
+          "id": 89500005,
+          "num": 2,
+          "prepositionId": -1
+        },
+        {
+          "id": 89500003,
+          "num": 3,
+          "prepositionId": -1
+        },
+        {
+          "id": 89500017,
+          "num": 4,
+          "prepositionId": 89500034
+        },
+        {
+          "id": 89500002,
+          "num": 6,
+          "prepositionId": 89500035
+        },
+        {
+          "id": 89500004,
+          "num": 8,
+          "prepositionId": 89500158
+        }
+      ],
+      "addWeight": 3
+    },
+    {
+      "id": 89700002,
+      "idCN": "回生之策",
+      "mod": "默认",
+      "isInformalData": false,
+      "startTime": "",
+      "name": "Vivification",
+      "des": "Summon 1 [Fateward I] on the field. Generate 1 [Benediction] in your hand every 8 seconds. Cards generated this way can exceed hand size.",
+      "iconPath": "UI/CubeRogue/TacticsIcon/Big/HuiSheng",
+      "tabIconPath": "UI/CubeRogue/TacticsIcon/Red/HuiSheng_1",
+      "cardIconPath": "UI/CubeRogue/TacticsSelection/Assets_New/huisheng",
+      "cardBigIcon": "UI/CubeRogue/TacticsIcon/CardBig/HuiSheng",
+      "shadePath": "UI/CubeRogue/QualityBG/Buff/TypeIcon/HuiSheng",
+      "initialEffectList": [
+        {
+          "id": 12303200
+        }
+      ],
+      "extraBuffList": [
+        {
+          "id": 89500046,
+          "num": 2
+        },
+        {
+          "id": 89500038,
+          "num": 3
+        },
+        {
+          "id": 89500047,
+          "num": 4,
+          "prepositionId": 89500034
+        },
+        {
+          "id": 89500040,
+          "num": 6,
+          "prepositionId": 89500035
+        },
+        {
+          "id": 89500048,
+          "num": 8,
+          "prepositionId": 89500158
+        }
+      ],
+      "addWeight": 3
+    },
+    {
+      "id": 89700003,
+      "idCN": "捍卫之策",
+      "mod": "默认",
+      "isInformalData": false,
+      "startTime": "",
+      "name": "Fortification",
+      "des": "Summon 1 [Bedrock Bastion] on the field to absorb 10% of all allies' DMG taken, and convert the absorbed DMG to [Subpressure].",
+      "iconPath": "UI/CubeRogue/TacticsIcon/Big/HanWei",
+      "tabIconPath": "UI/CubeRogue/TacticsIcon/Red/HanWei_1",
+      "cardIconPath": "UI/CubeRogue/TacticsSelection/Assets_New/hanwei",
+      "cardBigIcon": "UI/CubeRogue/TacticsIcon/CardBig/HanWei",
+      "shadePath": "UI/CubeRogue/QualityBG/Buff/TypeIcon/HanWei",
+      "initialEffectList": [
+        {
+          "id": 12303333
+        }
+      ],
+      "extraBuffList": [
+        {
+          "id": 89500064,
+          "num": 2,
+          "prepositionId": -1
+        },
+        {
+          "id": 89500075,
+          "num": 3,
+          "prepositionId": -1
+        },
+        {
+          "id": 89500060,
+          "num": 4,
+          "prepositionId": 89500034
+        },
+        {
+          "id": 89500074,
+          "num": 6,
+          "prepositionId": 89500035
+        },
+        {
+          "id": 89500073,
+          "num": 8,
+          "prepositionId": 89500158
+        }
+      ],
+      "addWeight": 3
+    },
+    {
+      "id": 89700004,
+      "idCN": "术窍之策",
+      "mod": "默认",
+      "isInformalData": false,
+      "startTime": "2030-05-02 04:59:00",
+      "name": "Thaumaturgy",
+      "des": "Increase the DMG dealt by all effects (such as Electrify, Ignite and Slash) by 15%.",
+      "iconPath": "UI/CubeRogue/TacticsIcon/Big/ShuQiao",
+      "tabIconPath": "UI/CubeRogue/TacticsIcon/Red/ShuQiao_1",
+      "cardIconPath": "UI/CubeRogue/TacticsSelection/Assets_New/shuqiao",
+      "cardBigIcon": "UI/CubeRogue/TacticsIcon/CardBig/ShuQiao",
+      "shadePath": "UI/CubeRogue/QualityBG/Buff/TypeIcon/ShuQiao",
+      "initialEffectList": [],
+      "extraBuffList": [
+        {
+          "id": -1,
+          "num": 2,
+          "prepositionId": 89500026
+        },
+        {
+          "id": -1,
+          "num": 3,
+          "prepositionId": 89500029
+        },
+        {
+          "id": -1,
+          "num": 4,
+          "prepositionId": 89500035
+        },
+        {
+          "id": -1,
+          "num": 6,
+          "prepositionId": 89500034
+        },
+        {
+          "id": -1,
+          "num": 8,
+          "prepositionId": 89500034
+        }
+      ],
+      "addWeight": 3
+    },
+    {
+      "id": 89700005,
+      "idCN": "时运之策",
+      "mod": "默认",
+      "isInformalData": false,
+      "startTime": "2030-05-02 04:59:00",
+      "name": "Providence",
+      "des": "Your hand cards replenish 0.5 seconds faster.",
+      "iconPath": "UI/CubeRogue/TacticsIcon/Big/ShiYun",
+      "tabIconPath": "UI/CubeRogue/TacticsIcon/Red/ShiYun_1",
+      "cardIconPath": "UI/CubeRogue/TacticsSelection/Assets_New/shiyun",
+      "cardBigIcon": "UI/CubeRogue/TacticsIcon/CardBig/ShiYun",
+      "shadePath": "UI/CubeRogue/QualityBG/Buff/TypeIcon/ShiYun",
+      "initialEffectList": [],
+      "extraBuffList": [
+        {
+          "id": -1,
+          "num": 2,
+          "prepositionId": 89500026
+        },
+        {
+          "id": -1,
+          "num": 3,
+          "prepositionId": 89500029
+        },
+        {
+          "id": -1,
+          "num": 4,
+          "prepositionId": 89500035
+        },
+        {
+          "id": -1,
+          "num": 6,
+          "prepositionId": 89500034
+        },
+        {
+          "id": -1,
+          "num": 8,
+          "prepositionId": 89500034
+        }
+      ],
+      "addWeight": 3
+    },
+    {
+      "id": 89700006,
+      "idCN": "源流之策",
+      "mod": "默认",
+      "isInformalData": false,
+      "startTime": "",
+      "name": "Primordium",
+      "des": "Summon 1 [Crystaxis] on the field. When using a Yellow card, release 1 [Lysiorb] that deals Reverengy DMG once to a random enemy.",
+      "iconPath": "UI/CubeRogue/TacticsIcon/Big/YuanLiu",
+      "tabIconPath": "UI/CubeRogue/TacticsIcon/Red/YuanLiu_1",
+      "cardIconPath": "UI/CubeRogue/TacticsSelection/Assets_New/yuanliu",
+      "cardBigIcon": "UI/CubeRogue/TacticsIcon/CardBig/YuanLiu",
+      "shadePath": "UI/CubeRogue/QualityBG/Buff/TypeIcon/YuanLiu",
+      "initialEffectList": [
+        {
+          "id": 12303617
+        }
+      ],
+      "extraBuffList": [
+        {
+          "id": 89500122,
+          "num": 2,
+          "prepositionId": -1
+        },
+        {
+          "id": 89500123,
+          "num": 3,
+          "prepositionId": -1
+        },
+        {
+          "id": 89500124,
+          "num": 4,
+          "prepositionId": 89500034
+        },
+        {
+          "id": 89500125,
+          "num": 6,
+          "prepositionId": 89500035
+        },
+        {
+          "id": 89500126,
+          "num": 8,
+          "prepositionId": 89500158
+        }
+      ],
+      "addWeight": 3
+    }
+  ]
+}

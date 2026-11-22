@@ -1,0 +1,78 @@
+local View = require("UIKabaneriActivity/UIKabaneriActivityView")
+local DataModel = require("UIKabaneriActivity/UIKabaneriActivityDataModel")
+local ViewFunction = require("UIKabaneriActivity/UIKabaneriActivityViewFunction")
+local Controller = require("UIKabaneriActivity/UIKabaneriActivityController")
+local param
+local Luabehaviour = {
+  serialize = function()
+    return param
+  end,
+  deserialize = function(initParams)
+    param = initParams
+    local data = Json.decode(initParams)
+    DataModel.Init(data.activityId, data.closeTime)
+    Controller.QuestIsFinish(DataModel.questId, DataModel.gameQuestId, DataModel.levelQuestId)
+    Controller.RefreshPanelDot(DataModel.cardPackId)
+    View.Group_Join.Group_Time:SetActive(not DataModel.continue)
+    local startTime = string.gsub(DataModel.startTime, "-", "/")
+    local endTime = string.gsub(DataModel.endTime, "-", "/")
+    local timeInfo = string.format(GetText(80607096), startTime, endTime)
+    View.Group_Join.Group_Time.Txt_EndTime:SetText(timeInfo)
+    View.Group_Join:SetActive(DataModel.isJoin)
+    View.Group_NotJoin:SetActive(not DataModel.isJoin)
+    local isOver = DataModel.ActivityOver()
+    if not DataModel.isJoin then
+      View.Group_NotJoin.Group_Preview.ScrollGrid_Reward.grid.self:SetDataCount(#DataModel.rewardPreviewList)
+      View.Group_NotJoin.Group_Preview.ScrollGrid_Reward.grid.self:RefreshAllElement()
+      View.Group_NotJoin.Group_Preview.ScrollGrid_Reward.grid.self:MoveToTop()
+      View.Group_NotJoin.Group_Add.Group_Can:SetActive(DataModel.isCanJoin and not isOver)
+      View.Group_NotJoin.Group_Add.Group_Quest:SetActive(not DataModel.isCanJoin and not isOver)
+      View.Group_NotJoin.Group_Add.Group_Quest.Txt_Quest:SetText(DataModel.unlockTip)
+      View.Group_NotJoin.Group_Time:SetActive(not DataModel.continue)
+      View.Group_NotJoin.Group_Time.Txt_EndTime:SetText(timeInfo)
+      View.Group_NotJoin.Group_Add.Group_Finish:SetActive(isOver)
+      if isOver then
+        View.Group_NotJoin.Group_Add.Group_Finish.Txt_Time:SetText(DataModel.GetCloseTimeInfo())
+      end
+    else
+      View.Group_Join.Group_Finish:SetActive(isOver)
+      View.Group_Join.Group_Level:SetActive(not isOver)
+      View.Group_Join.Group_SkipKabaneri:SetActive(not isOver and DataModel.gameOpen)
+      View.Group_Join.Group_Level.Group_Quest:SetActive(not DataModel.levelQuestIsComplete)
+      View.Group_Join.Group_SkipKabaneri.Group_Quest:SetActive(not DataModel.gameQuestIsComplete)
+      if isOver then
+        View.Group_Join.Group_Finish.Txt_Time:SetText(DataModel.GetCloseTimeInfo())
+        View.Group_Join.Group_Finish.Btn_Kabaneri:SetActive(DataModel.gameOpen)
+      end
+      View.Group_Join.Group_Store.Txt_Num:SetText(PlayerData:GetGoodsById(11400389).num or 0)
+    end
+    View.Group_NotJoin.Img_Icon:SetSprite(GetResPath(88300111))
+    View.Group_Join.Img_Icon:SetSprite(GetResPath(88300111))
+    View.Group_NotJoin.Group_Add.Group_Can.Img_Go:SetSprite(GetResPath(88300110))
+    View.Group_NotJoin.Group_Add.Group_Quest.Img_Go:SetSprite(GetResPath(88300110))
+    View.Group_Join.Group_Finish.Btn_Kabaneri.Img_Kabaneri:SetSprite(GetResPath(88300106))
+    View.Group_Join.Group_SkipKabaneri.Group_Can.Img_Icon:SetSprite(GetResPath(88300106))
+    View.Group_Join.Group_SkipKabaneri.Group_Quest.Img_Icon:SetSprite(GetResPath(88300106))
+    View.Group_Join.Group_Store.Img_:SetSprite(GetResPath(88300109))
+    View.Group_Join.Group_Quest.Img_:SetSprite(GetResPath(88300108))
+    View.Group_Join.Group_Level.Group_Quest.Img_:SetSprite(GetResPath(88300107))
+    View.Group_Join.Group_Level.Group_Can.Img_:SetSprite(GetResPath(88300107))
+  end,
+  awake = function()
+  end,
+  start = function()
+  end,
+  update = function()
+  end,
+  ondestroy = function()
+  end,
+  enable = function()
+  end,
+  disenable = function()
+  end
+}
+return {
+  Luabehaviour,
+  View,
+  ViewFunction
+}

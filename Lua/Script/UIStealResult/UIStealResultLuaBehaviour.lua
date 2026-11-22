@@ -1,0 +1,31 @@
+local View = require("UIStealResult/UIStealResultView")
+local DataModel = require("UIStealResult/UIStealResultDataModel")
+local ViewFunction = require("UIStealResult/UIStealResultViewFunction")
+local Luabehaviour = {
+  serialize = function()
+  end,
+  deserialize = function(initParams)
+    DataModel.SetJsonData(initParams)
+    DataModel.InitData()
+    DataModel.RefreshOnShow()
+  end,
+  awake = function()
+  end,
+  start = function()
+  end,
+  perupdate = function()
+  end,
+  update = function()
+  end,
+  ondestroy = function()
+  end,
+  enable = function()
+  end,
+  disenable = function()
+  end
+}
+return {
+  Luabehaviour,
+  View,
+  ViewFunction
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "hash": "458E7A3E0CD24AE36AECB930B5F1632D00092A3B950A7ED2E61AA698929D0DA2",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396447936694175,
+    "etc": "factory=ItemViewFactory"
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": 11500019,
+      "idCN": "资源道具/初始产品",
+      "mod": "基础道具视图",
+      "isInformalData": false,
+      "iconUrl": ""
+    }
+  ]
+}

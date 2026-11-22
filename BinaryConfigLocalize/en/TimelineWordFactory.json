@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "hash": "6AE947DCD367FA95E212CDC3BBB5CD5215A9866D73AE4BD44F6219D482A491FA",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396447337514147,
+    "etc": "factory=TimelineWordFactory"
+  },
+  "count": 69,
+  "records": [
+    {
+      "id": 83200001,
+      "idCN": "废弃/测试2",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "..."
+    },
+    {
+      "id": 83200002,
+      "idCN": "ep1/01/01我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "That's all?"
+    },
+    {
+      "id": 83200003,
+      "idCN": "ep1/01/02雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Yes."
+    },
+    {
+      "id": 83200004,
+      "idCN": "ep1/01/03雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "What's that you're holding? The way it's swing makes me dizzy."
+    },
+    {
+      "id": 83200005,
+      "idCN": "ep1/01/04我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Cough, cough. It's \"Morphic Resonance Pollution Index Counter\"."
+    },
+    {
+      "id": 83200006,
+      "idCN": "ep1/01/05雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Hey, you make it sound so high and mighty. Isn't it just \"Flee Alarm\"? A gaming console sort of thing."
+    },
+    {
+      "id": 83200007,
+      "idCN": "ep1/01/06我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Gaming console..."
+    },
+    {
+      "id": 83200008,
+      "idCN": "ep1/01/07雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "But it's alright. I won't mock you for being childish. Everyone outside of the Citadel is using this, you know."
+    },
+    {
+      "id": 83200009,
+      "idCN": "ep1/01/08雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "You better stop swinging it around. Even if I carried any dangerous goods, there's no way you'd be able to detect them with that thing."
+    },
+    {
+      "id": 83200010,
+      "idCN": "ep1/01/09我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "We still need to go through the procedures..."
+    },
+    {
+      "id": 83200011,
+      "idCN": "ep1/01/10我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Ahem, since the Flee Alarm didn't react, we'll load the cargo onto the train."
+    },
+    {
+      "id": 83200012,
+      "idCN": "ep1/02/01波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "As the crucial brain of the train, Miss Livia's best partner, ruler of the future world —"
+    },
+    {
+      "id": 83200013,
+      "idCN": "ep1/02/02波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "BOX the Immortal welcomes everyone aboard The Eternal!"
+    },
+    {
+      "id": 83200014,
+      "idCN": "ep1/02/03雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Immortal? You?"
+    },
+    {
+      "id": 83200015,
+      "idCN": "ep1/02/04雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Hahaha, I must say, your subordinates are quite interesting."
+    },
+    {
+      "id": 83200016,
+      "idCN": "ep1/02/05波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Correction. This unit is not a fragile human being. This unit surpasses any existing species —"
+    },
+    {
+      "id": 83200017,
+      "idCN": "ep1/02/06我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Alright, the annoying thing has quieted down. Miss Rebis, this way please. Allow me to show you around The Eternal."
+    },
+    {
+      "id": 83200018,
+      "idCN": "ep1/03/01遥",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "(Yawns)"
+    },
+    {
+      "id": 83200019,
+      "idCN": "ep1/03/02我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Miss Haruka."
+    },
+    {
+      "id": 83200020,
+      "idCN": "ep1/03/03遥",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Finally open for business?"
+    },
+    {
+      "id": 83200021,
+      "idCN": "ep1/03/04我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Oh yes, thanks to this customer's patronage."
+    },
+    {
+      "id": 83200022,
+      "idCN": "ep1/03/05遥",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "If so, please show me the cargo list... I need to do an inventory check..."
+    },
+    {
+      "id": 83200023,
+      "idCN": "ep1/03/06雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "No need to bother."
+    },
+    {
+      "id": 83200024,
+      "idCN": "ep1/03/07雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "I'll keep an eye on it here. If there are any problems with the goods, I'll bear the responsibility."
+    },
+    {
+      "id": 83200025,
+      "idCN": "ep1/03/08我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Uh—"
+    },
+    {
+      "id": 83200026,
+      "idCN": "ep1/03/09雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Double the price?"
+    },
+    {
+      "id": 83200027,
+      "idCN": "ep1/03/10我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "—Ahem, no worries, listen to this fellow."
+    },
+    {
+      "id": 83200028,
+      "idCN": "ep1/03/11雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Wise move."
+    },
+    {
+      "id": 83200029,
+      "idCN": "ep1/03/11遥",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Your train, your call."
+    },
+    {
+      "id": 83200030,
+      "idCN": "ep1/03/12我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Well, if your cargo has any special storage needs, we will do our best to accommodate them."
+    },
+    {
+      "id": 83200031,
+      "idCN": "ep1/03/13雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Hmm? Ah, no need. I'll stay here and watch over them with these metal lumps."
+    },
+    {
+      "id": 83200032,
+      "idCN": "ep1/03/14我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Stay here? We have a dedicated passenger carriage, and there's no need for you to stay here —"
+    },
+    {
+      "id": 83200033,
+      "idCN": "ep1/03/15雷比斯",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "It's fine here. I'm rather fond of this simple environment."
+    },
+    {
+      "id": 83200034,
+      "idCN": "ep1/03/16我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "...As you please."
+    },
+    {
+      "id": 83200035,
+      "idCN": "ep1/03/17我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "(This guy is real quirky.)"
+    },
+    {
+      "id": 83200152,
+      "idCN": "废弃/初始产品",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "......"
+    },
+    {
+      "id": 83200036,
+      "idCN": "ep4/01/01我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "This is the passenger car. Make yourself at home, Miss Nicola."
+    },
+    {
+      "id": 83200037,
+      "idCN": "ep4/01/02妮蔻拉",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Hmm."
+    },
+    {
+      "id": 83200038,
+      "idCN": "ep4/01/03我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "The files provided by Miss Anfiya and Miss Stella have been placed here as well."
+    },
+    {
+      "id": 83200039,
+      "idCN": "ep4/01/04波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Welcome to The Eternal. I am BOX, an Bionic Operator X that serves as a train regulation assistance system."
+    },
+    {
+      "id": 83200040,
+      "idCN": "ep4/01/05我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Ah?"
+    },
+    {
+      "id": 83200041,
+      "idCN": "ep4/01/06我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Why are you being so honest? Am I hallucinating?"
+    },
+    {
+      "id": 83200042,
+      "idCN": "ep4/01/07我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Aren't you supposed to be saying nonsense like how you're the ruler of the train, the world's brain, or how mortals are inadequate?"
+    },
+    {
+      "id": 83200043,
+      "idCN": "ep4/01/08波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Correction! What I said was that I am the cardinal brain of the train, the ruler of the future world, the immortal BOX!"
+    },
+    {
+      "id": 83200044,
+      "idCN": "ep4/01/09波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "And please do not forget the significant title of Miss Livia's Best Partner! The Conductor is the inadequate one!"
+    },
+    {
+      "id": 83200045,
+      "idCN": "ep4/01/10我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "You—"
+    },
+    {
+      "id": 83200046,
+      "idCN": "ep4/01/11波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "I simply feel that I ought to switch up my style ever since I laid eyes on this lady."
+    },
+    {
+      "id": 83200047,
+      "idCN": "ep4/01/12我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "More like you got scared and dared not toot your own horn!"
+    },
+    {
+      "id": 83200048,
+      "idCN": "ep4/01/13妮蔻拉",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Bionic Operator X, the most used model in the present day railway system."
+    },
+    {
+      "id": 83200049,
+      "idCN": "ep4/01/14妮蔻拉",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "But this BOX seems different from other BOXes. Did you give it a specially customized voice?"
+    },
+    {
+      "id": 83200050,
+      "idCN": "ep4/01/15我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Huh? Me? How could I be that free to personalize this fella..."
+    },
+    {
+      "id": 83200051,
+      "idCN": "ep4/01/16波克士",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "..."
+    },
+    {
+      "id": 83200053,
+      "idCN": "ep4/01/18我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Ahaha..."
+    },
+    {
+      "id": 83200052,
+      "idCN": "ep4/01/17妮蔻拉",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Never mind. Now, there's something that's more worthy of my time to look into."
+    },
+    {
+      "id": 83200054,
+      "idCN": "ep4/02/1艾略特",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Wow! The interior of the store looks way more interesting than the exterior!"
+    },
+    {
+      "id": 83200055,
+      "idCN": "ep4/02/2弗兰",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "So many elaborated clothes..."
+    },
+    {
+      "id": 83200056,
+      "idCN": "ep4/02/3艾略特",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "That one is pretty good, no? Completely different from your usual style. It's worth trying on!"
+    },
+    {
+      "id": 83200057,
+      "idCN": "ep4/02/4弗兰",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "...I think I'll pass."
+    },
+    {
+      "id": 83200058,
+      "idCN": "ep4/02/5艾略特",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "But if you want to become an entirely different person, you have to make bold choices!"
+    },
+    {
+      "id": 83200059,
+      "idCN": "ep4/02/6我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "This one seems to suit Livia perfectly."
+    },
+    {
+      "id": 83200060,
+      "idCN": "ep4/02/7莉微娅",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Really? Don't pull my leg, Conductor..."
+    },
+    {
+      "id": 83200061,
+      "idCN": "ep4/02/8莉微娅",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "By the way, why haven't we seen the store owner? Is no one around?"
+    },
+    {
+      "id": 83200062,
+      "idCN": "ep4/02/9马吉拉",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Sorry, sorry! I couldn't help watching quietly when I saw you guys losing yourselves in the clothes I designed."
+    },
+    {
+      "id": 83200065,
+      "idCN": "PITtimeline1/01/01静流",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Here you are!"
+    },
+    {
+      "id": 83200066,
+      "idCN": "PITtimeline1/01/02我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Yep!"
+    },
+    {
+      "id": 83200069,
+      "idCN": "ep8/01/01我",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "What's wrong, Ikara?"
+    },
+    {
+      "id": 83200070,
+      "idCN": "ep8/01/02伊卡菈",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Nothing..."
+    },
+    {
+      "id": 83200071,
+      "idCN": "ep8/01/03伊卡菈",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "I haven't walked here before. The scenery is lovely."
+    },
+    {
+      "id": 83200072,
+      "idCN": "ep8/01/04伊卡菈",
+      "mod": "TimelineWord",
+      "isInformalData": false,
+      "word": "Let's go, senior."
+    }
+  ]
+}

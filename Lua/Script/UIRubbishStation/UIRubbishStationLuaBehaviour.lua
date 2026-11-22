@@ -1,0 +1,36 @@
+local View = require("UIRubbishStation/UIRubbishStationView")
+local DataModel = require("UIRubbishStation/UIRubbishStationDataModel")
+local ViewFunction = require("UIRubbishStation/UIRubbishStationViewFunction")
+local Luabehaviour = {
+  serialize = function()
+    return Json.encode({
+      isRecyclePanel = DataModel.isRecyclePanel,
+      isCityMapIn = DataModel.isCityMapIn,
+      buildingId = DataModel.buildingId,
+      name = DataModel.stationName
+    })
+  end,
+  deserialize = function(initParams)
+    DataModel.initData(Json.decode(initParams))
+    ViewFunction.RefreshPanel()
+  end,
+  awake = function()
+  end,
+  start = function()
+  end,
+  update = function()
+  end,
+  ondestroy = function()
+    local npcDialog = require("Common/NPCDialog")
+    npcDialog.ClearAll()
+  end,
+  enable = function()
+  end,
+  disenable = function()
+  end
+}
+return {
+  Luabehaviour,
+  View,
+  ViewFunction
+}

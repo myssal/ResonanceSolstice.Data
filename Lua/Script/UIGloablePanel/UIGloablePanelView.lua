@@ -1,0 +1,2 @@
+local GloablePanel = {}
+return GloablePanel

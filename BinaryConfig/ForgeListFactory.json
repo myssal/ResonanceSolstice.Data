@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "hash": "4C05B08F9E74D5CA0B2CEBF0512F93A901E52B88222C36562D834080E04B0245",
+  "meta": {
+    "author": "此位置待支持，需要每名编辑者能提供自己用户名",
+    "date": 134396447937289653,
+    "etc": "factory=ForgeListFactory"
+  },
+  "count": 1,
+  "records": [
+    {
+      "id": 80000001,
+      "idCN": "初始产品",
+      "mod": "制作列表",
+      "forgeList": []
+    }
+  ]
+}

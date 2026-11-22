@@ -1,0 +1,41 @@
+//这份文档描述了打AB包时文件夹合并策略
+//请注意，由于部分文件名带有空格，此策略文件无法过滤空格，请勿多敲
+//子文件夹策略优先于父文件夹策略
+//用*表示任意文件夹，这样的写法最多2层
+//未设置策略的将以最基本的形式递归分析，每个文件夹成一个ab包
+//文件路径使用\和/均可，大小写不敏感
+//如果美术师改了格式或者追加新文件夹，可调整此策略。未及时调整此策略的情况下不会出任何bug，只是性能稍低
+
+//出现策划剧情重名，无法取消此项
+//story
+
+ai
+ggscript
+//timeline
+
+//audiomixer
+//adv/*
+
+//environment/*/*
+//environment/background/*/*
+//environment/mapmodel/*/*
+//environment/sky_system/*
+
+//特殊语法，这个语法描述下每个特定后缀文件会形成单独的ab包，不递归，覆盖上面所有规则
+//ui/dialog/back/*.png
+//ui/dialog/back/*.*
+
+
+//特殊语法，这个语法描述下每个特定后缀文件会形成单独的ab包，递归，覆盖上面所有规则
+//ui文件夹下，尤其是根文件夹下分类混乱，用如下办法减少加载无效引用量
+environment/rn_scenes/*.prefab RECURSIVE
+ui/*.prefab RECURSIVE
+home/furniture/3d/prefabs/*.prefab RECURSIVE
+environment/prefab/*.prefab RECURSIVE
+environment/mapmodel/001_prefab/*.prefab RECURSIVE
+
+
+//特殊语法，这些名称文件夹的内容会被合并到上一层中，通常对衍生文件使用
+//例如策略是matrials FLATTEN，那么environment/model/train/materials.ab会被归并进environment/model/train.ab
+materials FLATTEN
+referenceassets FLATTEN
