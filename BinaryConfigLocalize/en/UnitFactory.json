@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "hash": "3EE70CB59653ABA7AE748C4C560F297C7B43852483144112688DD54DBF346636",
+  "hash": "8E2EC6D1B840C696657DA5215DDD0FAB7B43852483144112688DD54DBF346636",
   "meta": {
     "author": "此位置待支持，需要每名编辑者能提供自己用户名",
-    "date": 134396447350454152,
+    "date": 134398060694801884,
     "etc": "factory=UnitFactory"
   },
   "count": 1588,
@@ -291876,7 +291876,7 @@
           "resonanceLv": 5
         }
       ],
-      "totalCost": 16,
+      "totalCost": 15,
       "totalCardNum": 5,
       "skillMin": 5,
       "homeCharacter": 70000396,

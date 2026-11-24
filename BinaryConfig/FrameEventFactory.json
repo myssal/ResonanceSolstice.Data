@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "hash": "2532C2C31CA50A887C39349DACF5FF7FBB86998A4A21788EDEA5938623AEEF50",
+  "hash": "0034B5EB7C9C054DAA5CDC5F579A08DB4CD937109F896EF1760FF353A84CA192",
   "meta": {
     "author": "此位置待支持，需要每名编辑者能提供自己用户名",
-    "date": 134396447526635748,
+    "date": 134398060865270878,
     "etc": "factory=FrameEventFactory"
   },
   "count": 3873,
@@ -49792,10 +49792,9 @@
     },
     {
       "id": 10503893,
-      "idCN": "我方/05五星/联动BS/爱丽丝/B/对所选友方翻牌",
-      "mod": "添加Buff",
-      "buffId": 10432463,
-      "targetType": "CurrentTarget"
+      "idCN": "我方/05五星/联动BS/爱丽丝/B/按邀约锁定目标翻牌",
+      "mod": "给自己上BUFF",
+      "buffId": 10432819
     },
     {
       "id": 10503894,
@@ -49809,7 +49808,7 @@
       "idCN": "我方/05五星/联动BS/爱丽丝/S/取回并强化已有假面",
       "mod": "给自己上BUFF",
       "isInformalData": false,
-      "buffId": 10432539
+      "buffId": 10432781
     },
     {
       "id": 10503896,
@@ -49823,7 +49822,7 @@
       "idCN": "敌方/深渊/60期/下半/祸链囚徒/出场完毕通知自身召唤",
       "mod": "给自己上BUFF",
       "isInformalData": false,
-      "buffId": 10432674
+      "buffId": 10432673
     }
   ]
 }

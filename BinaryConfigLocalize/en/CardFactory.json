@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "hash": "0260050D450D7647B4E71B02068118B65480DF88B92882BA6FC5BC66B6DF2216",
+  "hash": "3FACBCDE8675DE46A40FA586F6D1CD735480DF88B92882BA6FC5BC66B6DF2216",
   "meta": {
     "author": "此位置待支持，需要每名编辑者能提供自己用户名",
-    "date": 134396447655915595,
+    "date": 134398060995415452,
     "etc": "factory=CardFactory"
   },
   "count": 640,
@@ -39994,7 +39994,7 @@
       "sameCardGroupId": -1,
       "actionId": 10105421,
       "cost_SN": 20000,
-      "inhandBuffId": -1,
+      "inhandBuffId": 10432697,
       "inhandOverBuffId": -1,
       "startBuffId": -1,
       "discardBuffId": -1,
@@ -40012,6 +40012,9 @@
       "tagList": [
         {
           "tagId": 12600145
+        },
+        {
+          "tagId": 12602264
         }
       ],
       "tagOutsideList": [],
@@ -40040,7 +40043,7 @@
       "sameCardGroupId": -1,
       "actionId": 10105422,
       "cost_SN": 20000,
-      "inhandBuffId": -1,
+      "inhandBuffId": 10432702,
       "inhandOverBuffId": -1,
       "startBuffId": -1,
       "discardBuffId": -1,
@@ -40061,6 +40064,9 @@
         },
         {
           "tagId": 12602254
+        },
+        {
+          "tagId": 12602265
         }
       ],
       "tagOutsideList": [],
@@ -40089,7 +40095,7 @@
       "sameCardGroupId": -1,
       "actionId": 10105423,
       "cost_SN": 20000,
-      "inhandBuffId": -1,
+      "inhandBuffId": 10432707,
       "inhandOverBuffId": -1,
       "startBuffId": -1,
       "discardBuffId": -1,
@@ -40107,6 +40113,9 @@
       "tagList": [
         {
           "tagId": 12600146
+        },
+        {
+          "tagId": 12602266
         }
       ],
       "tagOutsideList": [],

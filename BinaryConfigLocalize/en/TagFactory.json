@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "hash": "51905F9B5D0B9026E6ACBD7177061B2FBEEF826AE19CAABFE4DEBBE9BDBF23DD",
+  "hash": "DC66AAD615DA6E022863B6B177A83ED0F2CEC4E28491235C8FAFEE0DAD34CA57",
   "meta": {
     "author": "此位置待支持，需要每名编辑者能提供自己用户名",
-    "date": 134396447881010319,
+    "date": 134398061218444302,
     "etc": "factory=TagFactory"
   },
-  "count": 2259,
+  "count": 2262,
   "records": [
     {
       "id": 12600009,
@@ -26422,6 +26422,24 @@
       "temptagNameRichText": "",
       "tagNameRichText": "",
       "detail": ""
+    },
+    {
+      "id": 12602264,
+      "idCN": "战斗/内部卡牌标识/爱丽丝/国王假面",
+      "mod": "标签",
+      "tagName": ""
+    },
+    {
+      "id": 12602265,
+      "idCN": "战斗/内部卡牌标识/爱丽丝/王后假面",
+      "mod": "标签",
+      "tagName": ""
+    },
+    {
+      "id": 12602266,
+      "idCN": "战斗/内部卡牌标识/爱丽丝/侍从假面",
+      "mod": "标签",
+      "tagName": ""
     }
   ]
 }
